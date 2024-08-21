@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Ke's Academic Homepage."
+title: "Welcome to Ke's Homepage."
 author_profile: true
 redirect_from: 
   - /about/
