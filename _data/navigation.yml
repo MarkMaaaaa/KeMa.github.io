@@ -14,14 +14,14 @@ main:
   #- title: "Project"
   #  url: /portfolio/
 
-  - title: "Teaching"
+  - title: "Service & Teaching"
     url: /teaching/    
   
   - title: "Product"
     url: /year-archive/
     
-  - title: "Service"
-    url: /cv/
+  #- title: "Service"
+  #  url: /cv/
     
   - title: "Award"
     url: /markdown/
