@@ -20,5 +20,5 @@ News
 
 For more info
 ------
-For any inquiries, please contact Ke Ma at [kma62@wisc.edu](mailto:kma62@wisc.edu).
+For any inquiries, please contact me at [kma62@wisc.edu](mailto:kma62@wisc.edu).
 
