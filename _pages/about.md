@@ -13,8 +13,6 @@ redirect_from:
 
 News
 ======
-**08/11/2024:** Paper submitted to Researchgate and Arxiv, *"An Advanced Microscopic Energy Consumption Model for Automated Vehicle Development, Calibration, Verification"*. You can read the manuscript [here](https://www.researchgate.net/publication/383275795_An_Advanced_Microscopic_Energy_Consumption_Model_for_Automated_Vehicle_Development_Calibration_Verification).
-
 
 | Date       | Event                                                                                                       |
 |------------|-------------------------------------------------------------------------------------------------------------|
