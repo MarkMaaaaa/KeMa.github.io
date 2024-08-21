@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-**Ke Ma** is a Ph.D. student in the Connected & Autonomous Transportation Systems (CATS) Laboratory at the [University of Wisconsin-Madison](https://www.wisc.edu/), U.S. (advised by Prof. [Xiaopeng (Shaw) Li](https://www.cutr.usf.edu/about-us/employee-directory/name/xiaopeng-li/)), where he works on Connected and Automated Vehicles, Traffic Flow Theory, Control Theory, and Machine Learning. Before that, he obtained his Bachelor’s and Master’s degrees (advised by Prof. [Hao Wang](https://tc.seu.edu.cn/2019/1022/c25722a291879/page.htm)) from Central South University, Changsha, China in 2018, and Southeast University, Nanjing, China in 2021, respectively.
+**Ke Ma** is a Ph.D. student in the [Connected & Autonomous Transportation Systems (CATS) Laboratory](https://catslab.engr.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/), U.S. (advised by Prof. [Xiaopeng (Shaw) Li](https://www.cutr.usf.edu/about-us/employee-directory/name/xiaopeng-li/)), where he works on Connected and Automated Vehicles, Control Theory, Energy and Emmision, and Machine Learning. Before that, he obtained his Master’s degree (advised by Prof. [Hao Wang](https://tc.seu.edu.cn/2019/1022/c25722a291879/page.htm)) at Southeast University in 2021 and Bachelor’s degree at Central South University in 2018. 
+
 
 
 A data-driven personal website
