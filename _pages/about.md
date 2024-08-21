@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 **Ke Ma** is a Ph.D. student in the [Connected & Autonomous Transportation Systems (CATS) Laboratory](https://catslab.engr.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/), U.S. (advised by Prof. [Xiaopeng (Shaw) Li](https://www.cutr.usf.edu/about-us/employee-directory/name/xiaopeng-li/)), where he works on Connected and Automated Vehicles, Control Theory, Energy and Emmision, and Machine Learning. Before that, he obtained his Master’s degree (advised by Prof. [Hao Wang](https://tc.seu.edu.cn/2019/1022/c25722a291879/page.htm)) at Southeast University in 2021 and Bachelor’s degree at Central South University in 2018. 
 
