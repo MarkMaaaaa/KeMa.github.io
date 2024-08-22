@@ -1,18 +1,18 @@
 main:
-  - title: "Research & Project"
+  - title: "Research & Projects"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Presentation"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Teaching & Services"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Products"
     url: /portfolio/
         
- # - title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Awards"
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
