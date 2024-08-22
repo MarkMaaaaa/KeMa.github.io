@@ -1,14 +1,25 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Project 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+# ULTra-AV: A Unified Longitudinal Trajectory Dataset for Automated Vehicles
+
+Automated Vehicles (AVs) promise significant advances in transportation. Critical to these improvements is understanding AVs' longitudinal behavior, which heavily relies on real-world trajectory data. Existing open-source trajectory datasets of AVs, however, often fall short in refinement, reliability, and completeness, hindering effective performance metrics analysis and model development.
+
+This study addresses these challenges by creating a Unified Longitudinal TRAjectory dataset for AVs (ULTra-AV) to analyze their microscopic longitudinal driving behaviors. The dataset compiles data from 13 distinct sources, encompassing various AV types, test sites, and experimental scenarios.
+
+### Data Processing Overview
+
+- **Step 1:** Extraction of longitudinal trajectory data.
+- **Step 2:** General data cleaning.
+- **Step 3:** Data-specific cleaning for longitudinal trajectory and car-following data.
+
+The validity of the processed data is affirmed through performance evaluations across safety, mobility, stability, and sustainability, along with an analysis of relationships between variables in car-following models.
+
+### Figure: Overview of ULTra-AV Process
+
+![ULTra-AV Dataset Overview](path_to_your_image.png)
+
+This work not only furnishes researchers with standardized data and metrics for longitudinal AV behavior studies but also sets guidelines for data collection and model development.
