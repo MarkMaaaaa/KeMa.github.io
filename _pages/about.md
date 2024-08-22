@@ -20,6 +20,8 @@ News
 
 | 08/18/2024 | Paper accepted by Scientific Data - Nature, *"A unified longitudinal trajectory dataset for automated vehicle"*. [Link to paper](https://figshare.com/articles/dataset/Ultra-AV_A_unified_longitudinal_trajectory_dataset_for_automated_vehicle/26339512). |
 
+| 08/12/2024 | Paper submitted to Transportation Research Part E, *"Development, Calibration, and Validation of a Novel Nonlinear Car-Following Model: Multivariate Piecewise Linear Approach for Adaptive Cruise Control Vehicles"*. |
+
 | 08/07/2024 | Paper submitted to Prepaint, *"Understanding Autonomous Vehicle Behavior: A Soft-Margin Approach in Piecewise Linear Model"*. [Link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4933248). |
 
 
