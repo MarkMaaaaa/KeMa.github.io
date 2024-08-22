@@ -46,7 +46,7 @@ author:
   dribbble         : # Username
   github           : "https://github.com/MarkMaaaaa"
   kaggle           : # Username  
-  ssrn    : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6819591"   
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6819591"   
 
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
