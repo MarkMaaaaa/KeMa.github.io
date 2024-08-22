@@ -16,11 +16,16 @@ News
 
 | Date       | Event                                                                                                       |
 |------------|-------------------------------------------------------------------------------------------------------------|
-| 08/21/2024 | Paper submitted to Arxiv and ResearchGate, *"An Advanced Microscopic Energy Consumption Model for Automated Vehicle Development, Calibration, Verification"*. [Link to paper](https://www.researchgate.net/publication/383275795_An_Advanced_Microscopic_Energy_Consumption_Model_for_Automated_Vehicle_Development_Calibration_Verification). |
+| 08/21/2024 | Paper submitted to Preprint, *"An Advanced Microscopic Energy Consumption Model for Automated Vehicle Development, Calibration, Verification"*. [Link to paper](https://www.researchgate.net/publication/383275795_An_Advanced_Microscopic_Energy_Consumption_Model_for_Automated_Vehicle_Development_Calibration_Verification). |
 
 | 08/18/2024 | Paper accepted by Scientific Data - Nature, *"A unified longitudinal trajectory dataset for automated vehicle"*. [Link to paper](https://figshare.com/articles/dataset/Ultra-AV_A_unified_longitudinal_trajectory_dataset_for_automated_vehicle/26339512). |
 
-| 08/07/2024 | Paper submitted to AAAI 2025, *"Understanding Autonomous Vehicle Behavior: A Soft-Margin Approach in Piecewise Linear Model"*. [Link to paper](https://figshare.com/articles/dataset/Ultra-AV_A_unified_longitudinal_trajectory_dataset_for_automated_vehicle/26339512). |
+| 08/07/2024 | Paper submitted to Prepaint, *"Understanding Autonomous Vehicle Behavior: A Soft-Margin Approach in Piecewise Linear Model"*. [Link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4933248). |
+
+
+
+
+
 
 
 For more info
