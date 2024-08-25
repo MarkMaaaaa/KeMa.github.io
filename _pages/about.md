@@ -9,9 +9,7 @@ redirect_from:
 
 <div style="font-size: 18px; line-height: 1.8;">
 
-**Ke Ma** is a Ph.D. candidate in the [Connected & Autonomous Transportation Systems (CATS) Laboratory](https://catslab.engr.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/), U.S. (advised by Prof. [Xiaopeng (Shaw) Li](https://www.cutr.usf.edu/about-us/employee-directory/name/xiaopeng-li/)). His research focuses on Connected and Automated Vehicles, Control Theory, Energy and Emission, and Machine Learning. 
-
-Before that, he obtained his Master’s degree (advised by Prof. [Hao Wang](https://tc.seu.edu.cn/2019/1022/c25722a291879/page.htm)) at Southeast University in 2021 and Bachelor’s degree at Central South University in 2018. His works have been published in top Transportation/CS/Energy/Multidisciplinary journals and conferences, e.g., *Transportation Research Parts C* and *Scientific Data*.
+**Ke Ma** is a Ph.D. candidate in the [Connected & Autonomous Transportation Systems (CATS) Laboratory](https://catslab.engr.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/), U.S. (advised by Prof. [Xiaopeng (Shaw) Li](https://www.cutr.usf.edu/about-us/employee-directory/name/xiaopeng-li/)). His research focuses on Connected and Automated Vehicles, Control Theory, Energy and Emission, and Machine Learning. Before that, he obtained his Master’s degree (advised by Prof. [Hao Wang](https://tc.seu.edu.cn/2019/1022/c25722a291879/page.htm)) at Southeast University in 2021 and Bachelor’s degree at Central South University in 2018. His works have been published in top Transportation/Energy/Multidisciplinary journals and conferences, e.g., *Transportation Research Parts C* and *Scientific Data*.
 
 </div>
 
