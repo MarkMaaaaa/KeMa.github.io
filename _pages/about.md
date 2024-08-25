@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-<div style="font-size: 18px; line-height: 1.8;">
-**Ke Ma** is a Ph.D. candidate in the [Connected & Autonomous Transportation Systems (CATS) Laboratory](https://catslab.engr.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/), U.S. (advised by Prof. [Xiaopeng (Shaw) Li](https://www.cutr.usf.edu/about-us/employee-directory/name/xiaopeng-li/)). His research focuses on Connected and Automated Vehicles, Control Theory, Energy and Emmision, and Machine Learning. Before that, he obtained his Master’s degree (advised by Prof. [Hao Wang](https://tc.seu.edu.cn/2019/1022/c25722a291879/page.htm)) at Southeast University in 2021 and Bachelor’s degree at Central South University in 2018. His works have been published in top Transportation/Energy/Multidisciplinary journals and conferences, e.g., Transportation Research Parts C and Scientific Data. 
-</div>
+<p style="font-size: 20px; line-height: 1.8; font-family: Arial, sans-serif; margin-bottom: 20px;">
+    <strong>Ke Ma</strong> is a Ph.D. candidate in the <a href="https://catslab.engr.wisc.edu/" style="color: #007ACC; text-decoration: none;">Connected & Autonomous Transportation Systems (CATS) Laboratory</a> at the <a href="https://www.wisc.edu/" style="color: #007ACC; text-decoration: none;">University of Wisconsin-Madison</a>, U.S. (advised by Prof. <a href="https://www.cutr.usf.edu/about-us/employee-directory/name/xiaopeng-li/" style="color: #007ACC; text-decoration: none;">Xiaopeng (Shaw) Li</a>).Before that, he obtained his Master’s degree (advised by Prof. <a href="https://tc.seu.edu.cn/2019/1022/c25722a291879/page.htm" style="color: #007ACC; text-decoration: none;">Hao Wang</a>) at Southeast University in 2021 and Bachelor’s degree at Central South University in 2018.
+</p>
+<p style="font-size: 20px; line-height: 1.8; font-family: Arial, sans-serif; margin-bottom: 20px;">
+    His research focuses on Connected and Automated Vehicles, Control Theory, Energy and Emission, and Machine Learning. His works have been published in top Transportation/Energy/Multidisciplinary journals and conferences, e.g., <em>Transportation Research Parts C</em> and <em>Scientific Data</em>.
+</p>
 
  
 
