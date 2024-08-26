@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-
+You can also find my publications on [my Google Scholar profile]({{site.author.googlescholar}}).
