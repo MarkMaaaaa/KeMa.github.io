@@ -47,6 +47,9 @@ author:
   github           : "https://github.com/MarkMaaaaa"
   kaggle           : # Username  
   ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6819591"   
+  {% if site.author.ssrn %}
+  <a href="{{ site.author.ssrn }}" class="author-link">SSRN</a>
+  {% endif %}
 
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
