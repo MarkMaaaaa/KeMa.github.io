@@ -21,7 +21,7 @@ News
 
 | Date       | Event                                                                                                       |
 |------------|-------------------------------------------------------------------------------------------------------------|
-| 09/15/2024 | Paper submitted to Preprint, *"Real-world Automated Vehicle Longitudinal Stability Analysis: Controller Design and Field Test"*. [Link to paper](). |
+| 09/15/2024 | Paper submitted to Preprint, *"Real-world Automated Vehicle Longitudinal Stability Analysis: Controller Design and Field Test"*. [Link to paper]()
 (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960777). |
 | 08/21/2024 | Paper submitted to Preprint, *"An Advanced Microscopic Energy Consumption Model for Automated Vehicle Development, Calibration, Verification"*. [Link to paper](https://www.researchgate.net/publication/383275795_An_Advanced_Microscopic_Energy_Consumption_Model_for_Automated_Vehicle_Development_Calibration_Verification). |
 | 08/18/2024 | Paper accepted by Scientific Data - Nature, *"A unified longitudinal trajectory dataset for automated vehicle"*. [Link to paper](https://figshare.com/articles/dataset/Ultra-AV_A_unified_longitudinal_trajectory_dataset_for_automated_vehicle/26339512). |
