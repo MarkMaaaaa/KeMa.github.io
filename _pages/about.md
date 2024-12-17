@@ -8,10 +8,12 @@ redirect_from:
 ---
 
 <p style="font-size: 18px; line-height: 1.8; font-family: Arial, sans-serif; margin-bottom: 18px;">
-    <strong>Ke Ma</strong> is a Ph.D. candidate in the <a href="https://catslab.engr.wisc.edu/" style="color: #007ACC; text-decoration: none;">Connected & Autonomous Transportation Systems (CATS) Laboratory</a> at the <a href="https://www.wisc.edu/" style="color: #007ACC; text-decoration: none;">University of Wisconsin-Madison</a>, U.S. (advised by Prof. <a href="https://www.cutr.usf.edu/about-us/employee-directory/name/xiaopeng-li/" style="color: #007ACC; text-decoration: none;">Xiaopeng (Shaw) Li</a>).Before that, he obtained his Master’s degree (advised by Prof. <a href="https://tc.seu.edu.cn/2019/1022/c25722a291879/page.htm" style="color: #007ACC; text-decoration: none;">Hao Wang</a>) at Southeast University in 2021 and Bachelor’s degree at Central South University in 2018.
+    <strong>Ke Ma</strong> is a Research Associate and PostDoc in the <a href="https://catslab.engr.wisc.edu/" style="color: #007ACC; text-decoration: none;">Connected & Autonomous Transportation Systems (CATS) Laboratory</a> at the <a href="https://www.wisc.edu/" style="color: #007ACC; text-decoration: none;">University of Wisconsin-Madison</a>, U.S. (advised by Prof. <a href="https://www.cutr.usf.edu/about-us/employee-directory/name/xiaopeng-li/" style="color: #007ACC; text-decoration: none;">Xiaopeng (Shaw) Li</a>).Before that, he obtained his Master’s degree (advised by Prof. <a href="https://tc.seu.edu.cn/2019/1022/c25722a291879/page.htm" style="color: #007ACC; text-decoration: none;">Hao Wang</a>) at Southeast University in 2021 and Bachelor’s degree at Central South University in 2018.
 </p>
 <p style="font-size: 18px; line-height: 1.8; font-family: Arial, sans-serif; margin-bottom: 18px;">
-    His research focuses on Connected and Automated Vehicles, Control Theory, Energy and Emission, and Machine Learning. His works have been published in top Transportation/Energy/Multidisciplinary journals and conferences, e.g., <em>Transportation Research Parts C</em> and <em>Scientific Data</em>.
+    His research focuses on fundamental theory and field experiments of Connected and Automated Vehicles, Control Theory, Energy and Emission, and Machine Learning. His works have been published in top Transportation/Energy/Multidisciplinary journals and conferences, e.g., <em>Transportation Research Parts C/E</em> and <em>Scientific Data</em>. 
+
+  
 </p>
 
 
