@@ -34,7 +34,7 @@ News
 
 
 
-For more info
+For more information
 ------
 For any inquiries, please contact me at [kma62@wisc.edu](mailto:kma62@wisc.edu).
 
