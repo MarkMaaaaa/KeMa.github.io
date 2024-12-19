@@ -23,7 +23,7 @@ repository               : "https://markmaaaaa.github.io/KeMa.github.io"
 author:
   # Biographic information
   avatar           : "profile_Ke.png"
-  name             : "Ke Ma"
+  name             : #"Ke Ma"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Madison, WI, U.S."
