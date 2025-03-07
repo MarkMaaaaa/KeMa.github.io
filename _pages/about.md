@@ -22,7 +22,7 @@ redirect_from:
 | 03/06/2025 | Accepted by Energy, *"Automated vehicle microscopic energy consumption study (AV-Micro): Data collection and model development"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S0360544225007388?dgcid=coauthor). |
 | 03/01/2025 | Paper submitted to IROS 2025, *"Experimental validation of car-following model stability: use reduce-scaled testbeds"*. |
 | 01/27/2025 | Accepted by the 2025 IEEE International Conference on Robotics and Automation (ICRA), *"Real-world Automated Vehicle Longitudinal Stability Analysis: Controller Design and Field Test"*. [Link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960777). |
-| 01/14/2025 | Awarded by OpenAI Researcher Access Program. 0000008147, *"Large language model application in AV communication field tests"*, $1,000. |
+| 01/14/2025 | Awarded by OpenAI Researcher Access Program. 0000008147, *"Large language model application in AV communication field tests"*. |
 | 01/07/2025 | 2025 Best Paper by the AED60 Committee on Statistical and Econometric Methods, *"Assessing Markov Property in Driving Behaviors: Insights from Statistical Tests"*. |
 | 01/05/2025 | 10 papers accepted in TRB2025, including 1 podium presentation and 9 poster presentations. |
 | 12/24/2024 | Dissertation Published, *"Design, Testing, and Evaluation of Automated Vehicle Control Systems in Transportation"*. [Link to paper](https://digital.library.wisc.edu/1711.dl/7W3ZFGKODKUSG86). |
