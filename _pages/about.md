@@ -19,8 +19,7 @@ redirect_from:
 
 | Date       | Event                                                                                                       |
 |------------|-------------------------------------------------------------------------------------------------------------|
-| 03/16/2025 | Accepted by Transportation Research Part E, *"A comprehensive assessment of connected and automated vehicle
-analytical, modeling, and simulation tools"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S1366554525000481). |
+| 03/16/2025 | Accepted by Transportation Research Part E, *"A comprehensive assessment of connected and automated vehicle analytical, modeling, and simulation tools"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S1366554525000481). |
 | 03/06/2025 | Accepted by Energy, *"Automated vehicle microscopic energy consumption study (AV-Micro): Data collection and model development"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S0360544225007388?dgcid=coauthor). |
 | 03/01/2025 | Paper submitted to IROS 2025, *"Experimental validation of car-following model stability: use reduce-scaled testbeds"*. |
 | 01/27/2025 | Accepted by the 2025 IEEE International Conference on Robotics and Automation (ICRA), *"Real-world Automated Vehicle Longitudinal Stability Analysis: Controller Design and Field Test"*. [Link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960777). |
