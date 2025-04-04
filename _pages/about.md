@@ -19,6 +19,7 @@ redirect_from:
 
 | Date       | Event                                                                                                       |
 |------------|-------------------------------------------------------------------------------------------------------------|
+| 03/31/2025 | Accepted by IEEE-IV 2025, *"Optimized Cooperative Car-Following Through Lightweight Vehicle-to-Vehicle Intent Sharing"*. [Corresponding author]. |
 | 03/16/2025 | Accepted by Transportation Research Part E, *"A comprehensive assessment of connected and automated vehicle analytical, modeling, and simulation tools"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S1366554525000481). |
 | 03/06/2025 | Accepted by Energy, *"Automated vehicle microscopic energy consumption study (AV-Micro): Data collection and model development"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S0360544225007388?dgcid=coauthor). |
 | 03/01/2025 | Paper submitted to IROS 2025, *"Experimental validation of car-following model stability: use reduce-scaled testbeds"*. |
