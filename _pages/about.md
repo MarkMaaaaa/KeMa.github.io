@@ -19,6 +19,7 @@ redirect_from:
 
 | Date       | Event                                                                                                       |
 |------------|-------------------------------------------------------------------------------------------------------------|
+| 11/2025 | Arxiv, *"Security strategy against generalized inter-vehicle cyberattacks in car-following scenarios for connected and autonomous vehicles"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S0968090X25002207).|
 | 07/2025 | Transportation Research Part C, *"Security strategy against generalized inter-vehicle cyberattacks in car-following scenarios for connected and autonomous vehicles"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S0968090X25002207).|
 | 06/2025 | Accepted by Accident Analysis & Prevention, *"Quantile-based scenario generation for automated vehicle safety evaluation"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S0001457525001290).|
 | 04/2025 | Accepted by Transportation Research Part E, *"Development, Calibration, and validation of a Novel nonlinear Car-Following Model: Multivariate piecewise linear approach for adaptive cruise control vehicles"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S1366554525000729).|
