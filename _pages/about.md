@@ -19,24 +19,30 @@ redirect_from:
 
 | Date       | Event                                                                                                       |
 |------------|-------------------------------------------------------------------------------------------------------------|
-| 11/2025 | Arxiv, *"Security strategy against generalized inter-vehicle cyberattacks in car-following scenarios for connected and autonomous vehicles"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S0968090X25002207).|
+| 05/2026 | Arxiv, *"Temporal Sampling Frequency Matters: A Capacity-Aware Study of End-to-End Driving Trajectory Prediction"*. [Link to paper](https://arxiv.org/abs/2605.10388). |
+| 05/2026 | Transportation Research Part E, *"Assessing markov property in driving behaviors: Insights from statistical tests"*. [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S1366554526000803). |
+| 02/2026 | Contributed paper *"A Physical Hardware-In-The-Loop for End-To-End Driving Evaluation in Safety-Critical Scenarios"* accepted for oral presentation. |
+| 12/2025 | Communications in Transportation Research, *"Safety assurance adaptive control for modular autonomous vehicles"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S2772424725000447). |
+| 11/2025 | Arxiv, *"PAVE: An End-to-End Dataset for Production Autonomous Vehicle Evaluation"*. [Link to paper](https://arxiv.org/abs/2511.14185). |
+| 11/2025 | Arxiv, *"Unveiling Uniform Shifted Power Law in Stochastic Human and Autonomous Driving Behavior"*. [Link to paper](https://arxiv.org/abs/2511.00659). |
+| 10/2025 | Transportation Research Part B, *"A modeling methodology for car-following behaviors of automated vehicles: Trade-off between stability and mobility"*. [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S0191261525001651). |
 | 07/2025 | Transportation Research Part C, *"Security strategy against generalized inter-vehicle cyberattacks in car-following scenarios for connected and autonomous vehicles"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S0968090X25002207).|
 | 06/2025 | Accepted by Accident Analysis & Prevention, *"Quantile-based scenario generation for automated vehicle safety evaluation"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S0001457525001290).|
 | 04/2025 | Accepted by Transportation Research Part E, *"Development, Calibration, and validation of a Novel nonlinear Car-Following Model: Multivariate piecewise linear approach for adaptive cruise control vehicles"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S1366554525000729).|
-| 03/31/2025 | Accepted by IEEE-IV 2025, *"Optimized Cooperative Car-Following Through Lightweight Vehicle-to-Vehicle Intent Sharing"*. [Corresponding author]. |
-| 03/16/2025 | Accepted by Transportation Research Part E, *"A comprehensive assessment of connected and automated vehicle analytical, modeling, and simulation tools"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S1366554525000481). |
-| 03/06/2025 | Accepted by Energy, *"Automated vehicle microscopic energy consumption study (AV-Micro): Data collection and model development"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S0360544225007388?dgcid=coauthor). |
-| 03/01/2025 | Paper submitted to IROS 2025, *"Experimental validation of car-following model stability: use reduce-scaled testbeds"*. |
-| 01/27/2025 | Accepted by the 2025 IEEE International Conference on Robotics and Automation (ICRA), *"Real-world Automated Vehicle Longitudinal Stability Analysis: Controller Design and Field Test"*. [Link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960777). |
-| 01/14/2025 | Awarded by OpenAI Researcher Access Program. 0000008147, *"Large language model application in AV communication field tests"*. |
-| 01/07/2025 | 2025 Best Paper by the AED60 Committee on Statistical and Econometric Methods, *"Assessing Markov Property in Driving Behaviors: Insights from Statistical Tests"*. |
-| 01/05/2025 | 10 papers accepted in TRB2025, including 1 podium presentation and 9 poster presentations. |
-| 12/24/2024 | Dissertation Published, *"Design, Testing, and Evaluation of Automated Vehicle Control Systems in Transportation"*. [Link to paper](https://digital.library.wisc.edu/1711.dl/7W3ZFGKODKUSG86). |
-| 10/15/2024 | Paper submitted to Preprint, *"An Advanced Microscopic Energy Consumption Model for Automated Vehicle Development, Calibration, Verification"*. [Link to paper](https://www.researchgate.net/publication/383275795_An_Advanced_Microscopic_Energy_Consumption_Model_for_Automated_Vehicle_Development_Calibration_Verification). |
-| 09/15/2024 | Paper submitted to Preprint, *"Real-world Automated Vehicle Longitudinal Stability Analysis: Controller Design and Field Test"*. [Link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960777). |
-| 08/18/2024 | Paper accepted by *Scientific Data - Nature*, *"A Unified Longitudinal Trajectory Dataset for Automated Vehicles"*. [Link to paper](https://figshare.com/articles/dataset/Ultra-AV_A_unified_longitudinal_trajectory_dataset_for_automated_vehicle/26339512). |
-| 08/12/2024 | Paper submitted to *Transportation Research Part E*, *"Development, Calibration, and Validation of a Novel Nonlinear Car-Following Model: Multivariate Piecewise Linear Approach for Adaptive Cruise Control Vehicles"*. |
-| 08/07/2024 | Paper submitted to Preprint, *"Understanding Autonomous Vehicle Behavior: A Soft-Margin Approach in Piecewise Linear Model"*. [Link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4933248). |
+| 03/2025 | Accepted by IEEE-IV 2025, *"Optimized Cooperative Car-Following Through Lightweight Vehicle-to-Vehicle Intent Sharing"*. [Corresponding author]. |
+| 03/2025 | Accepted by Transportation Research Part E, *"A comprehensive assessment of connected and automated vehicle analytical, modeling, and simulation tools"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S1366554525000481). |
+| 03/2025 | Accepted by Energy, *"Automated vehicle microscopic energy consumption study (AV-Micro): Data collection and model development"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S0360544225007388?dgcid=coauthor). |
+| 03/2025 | Paper submitted to IROS 2025, *"Experimental validation of car-following model stability: use reduce-scaled testbeds"*. |
+| 01/2025 | Accepted by the 2025 IEEE International Conference on Robotics and Automation (ICRA), *"Real-world Automated Vehicle Longitudinal Stability Analysis: Controller Design and Field Test"*. [Link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960777). |
+| 01/2025 | Awarded by OpenAI Researcher Access Program. 0000008147, *"Large language model application in AV communication field tests"*. |
+| 01/2025 | 2025 Best Paper by the AED60 Committee on Statistical and Econometric Methods, *"Assessing Markov Property in Driving Behaviors: Insights from Statistical Tests"*. |
+| 01/2025 | 10 papers accepted in TRB2025, including 1 podium presentation and 9 poster presentations. |
+| 12/2024 | Dissertation Published, *"Design, Testing, and Evaluation of Automated Vehicle Control Systems in Transportation"*. [Link to paper](https://digital.library.wisc.edu/1711.dl/7W3ZFGKODKUSG86). |
+| 10/2024 | Paper submitted to Preprint, *"An Advanced Microscopic Energy Consumption Model for Automated Vehicle Development, Calibration, Verification"*. [Link to paper](https://www.researchgate.net/publication/383275795_An_Advanced_Microscopic_Energy_Consumption_Model_for_Automated_Vehicle_Development_Calibration_Verification). |
+| 09/2024 | Paper submitted to Preprint, *"Real-world Automated Vehicle Longitudinal Stability Analysis: Controller Design and Field Test"*. [Link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960777). |
+| 08/2024 | Paper accepted by *Scientific Data - Nature*, *"A Unified Longitudinal Trajectory Dataset for Automated Vehicles"*. [Link to paper](https://figshare.com/articles/dataset/Ultra-AV_A_unified_longitudinal_trajectory_dataset_for_automated_vehicle/26339512). |
+| 08/2024 | Paper submitted to *Transportation Research Part E*, *"Development, Calibration, and Validation of a Novel Nonlinear Car-Following Model: Multivariate Piecewise Linear Approach for Adaptive Cruise Control Vehicles"*. |
+| 08/2024 | Paper submitted to Preprint, *"Understanding Autonomous Vehicle Behavior: A Soft-Margin Approach in Piecewise Linear Model"*. [Link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4933248). |
 
 ## For More Information
 
