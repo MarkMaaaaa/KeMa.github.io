@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="font-size: 18px; line-height: 1.8; font-family: Arial, sans-serif; margin-bottom: 18px;">
-    <strong>Dr. Ke Ma</strong> joined The Hong Kong University of Science and Technology (Guangzhou) as a tenure-track Assistant Professor in the Intelligent Transportation Thrust, Systems Hub. He obtained his Ph.D. degree in the <a href="https://catslab.engr.wisc.edu/" style="color: #007ACC; text-decoration: none;">Connected & Autonomous Transportation Systems (CATS) Laboratory</a> at the <a href="https://www.wisc.edu/" style="color: #007ACC; text-decoration: none;">University of Wisconsin-Madison</a>, U.S. (advised by Prof. <a href="https://www.cutr.usf.edu/about-us/employee-directory/name/xiaopeng-li/" style="color: #007ACC; text-decoration: none;">Xiaopeng (Shaw) Li</a>).
+    <strong>Dr. Ke Ma</strong> joined The Hong Kong University of Science and Technology (Guangzhou) as a tenure-track Assistant Professor in the Intelligent Transportation Thrust, Systems Hub. He obtained his Ph.D. degree in the <a href="https://catslab.engr.wisc.edu/" style="color: #007ACC; text-decoration: none;">Connected & Autonomous Transportation Systems (CATS) Laboratory</a> at the <a href="https://www.wisc.edu/" style="color: #007ACC; text-decoration: none;">University of Wisconsin-Madison</a>, U.S.).
 </p>
 
 <p style="font-size: 18px; line-height: 1.8; font-family: Arial, sans-serif; margin-bottom: 18px;">
