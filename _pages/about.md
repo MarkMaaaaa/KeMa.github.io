@@ -12,7 +12,7 @@ redirect_from:
 </p>
 
 <p style="font-size: 18px; line-height: 1.8; font-family: Arial, sans-serif; margin-bottom: 18px;">
-    His research focuses on Embodied Intelligence for Transportation and Physical AI, with particular emphasis on the safety, stability, and evaluation of the physical AI Agent operating in complex physical environments. His work integrates connected and autonomous driving,  automated vehicles, unmanned aerial vehicles, intelligent transportation systems, and world models. His work has been published in top Transportation, Robotics, Artificial Intelligence, Energy, and Multidisciplinary journals and top-tier conferences, including <em>CVPR<em>, <em>ICRA<em>, <em>Transportation Research Part B/C/E</em>, <em>IEEE Series</em>, and <em>Nature Series</em>.
+    His research focuses on Embodied Intelligence for Transportation and Physical AI, with particular emphasis on the safety, stability, and evaluation of the physical AI Agent operating in complex physical environments. His work integrates connected and autonomous driving,  automated vehicles, unmanned aerial vehicles, intelligent transportation systems, and world models. His work has been published in top Transportation, Robotics, Artificial Intelligence, Energy, and Multidisciplinary journals and top-tier conferences, including <em>CVPR</em>, <em>ICRA</em>, <em>Transportation Research Part B/C/E</em>, <em>IEEE Series</em>, and <em>Nature Series</em>.
 </p>
 
 ## News
