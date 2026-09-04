@@ -19,6 +19,8 @@ redirect_from:
 
 | Date       | Event                                                                                                       |
 |------------|-------------------------------------------------------------------------------------------------------------|
+| 05/2026 | Transportation Research Part B: Methodological, *"Can lane-changing preferences of connected and autonomous vehicles induce spontaneous platoon formation?"*. [Link to paper](https://doi.org/10.1016/j.trb.2026.103504). |
+| 05/2026 | arXiv, *"TPS-Drive: Task-Guided Representation Purification for VLM-based Autonomous Driving"*. [Link to paper](https://doi.org/10.48550/arXiv.2605.27038). |
 | 05/2026 | Arxiv, *"Temporal Sampling Frequency Matters: A Capacity-Aware Study of End-to-End Driving Trajectory Prediction"*. [Link to paper](https://arxiv.org/abs/2605.10388). |
 | 05/2026 | Transportation Research Part E, *"Assessing markov property in driving behaviors: Insights from statistical tests"*. [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S1366554526000803). |
 | 05/2026 | Accepted by IEEE-ITSC 2026, *"Mining and Evaluating Autonomous Vehicle Behaviors: A Scene-Categorization Framework for Controlled Intersections"*. [Corresponding author]. |
