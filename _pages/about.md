@@ -24,9 +24,9 @@ redirect_from:
 | 05/2026 | Arxiv, *"Temporal Sampling Frequency Matters: A Capacity-Aware Study of End-to-End Driving Trajectory Prediction"*. [Link to paper](https://arxiv.org/abs/2605.10388). |
 | 05/2026 | Transportation Research Part E, *"Assessing markov property in driving behaviors: Insights from statistical tests"*. [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S1366554526000803). |
 | 05/2026 | Accepted by IEEE-ITSC 2026, *"Mining and Evaluating Autonomous Vehicle Behaviors: A Scene-Categorization Framework for Controlled Intersections"*. [Corresponding author]. |
+| 02/2026 | Accepted by CVPR 2026, *"PAVE: An End-to-End Dataset for Production Autonomous Vehicle Evaluation"*. [Link to paper](https://arxiv.org/abs/2511.14185). [Corresponding author]. |
 | 02/2026 | Contributed paper *"A Physical Hardware-In-The-Loop for End-To-End Driving Evaluation in Safety-Critical Scenarios"* accepted for oral presentation. |
 | 12/2025 | Communications in Transportation Research, *"Safety assurance adaptive control for modular autonomous vehicles"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S2772424725000447). |
-| 11/2025 | Arxiv, *"PAVE: An End-to-End Dataset for Production Autonomous Vehicle Evaluation"*. [Link to paper](https://arxiv.org/abs/2511.14185). |
 | 11/2025 | Arxiv, *"Unveiling Uniform Shifted Power Law in Stochastic Human and Autonomous Driving Behavior"*. [Link to paper](https://arxiv.org/abs/2511.00659). |
 | 10/2025 | Transportation Research Part B, *"A modeling methodology for car-following behaviors of automated vehicles: Trade-off between stability and mobility"*. [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S0191261525001651). |
 | 07/2025 | Transportation Research Part C, *"Security strategy against generalized inter-vehicle cyberattacks in car-following scenarios for connected and autonomous vehicles"*. [Link to paper](https://www.sciencedirect.com/science/article/pii/S0968090X25002207).|
